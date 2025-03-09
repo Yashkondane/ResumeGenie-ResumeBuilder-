@@ -1,27 +1,32 @@
-ResumeGenie 📝✨
+#**ResumeGenie**
+
+
+
 A simple and user-friendly resume builder with a clean, responsive design, built using HTML, CSS, and JavaScript.
 
 
-🚀 Features:
+##**Features:**
 
-✅ Real-time Preview – Instantly see updates as you input information.
+1) Real-time Preview – Instantly see updates as you input information.
 
-✅ Print & Save as PDF – Uses the browser's print functionality to save resumes as PDFs.
+2) Print & Save as PDF – Uses the browser's print functionality to save resumes as PDFs.
 
-✅ Responsive UI – Works seamlessly across different devices.
+3) Responsive UI – Works seamlessly across different devices.
 
-✅ Easy to Use – No sign-ups or complex steps—just enter details and generate your resume.
+4) Easy to Use – No sign-ups or complex steps—just enter details and generate your resume.
 
 
-🔧 Tech Stack:
+##**Tech Stack:**
 
-Frontend: HTML, CSS, JavaScript
+**Frontend:** HTML, CSS, JavaScript
 
-PDF Export: Browser Print Function (window.print())
+**PDF Export:** Browser Print Function (window.print())
 
-📌 Helping users create polished resumes effortlessly! 🚀
+Helping users create polished resumes effortlessly! 
 
-🔗 Live Demo: [ResumeGenie](https://exquisite-cajeta-9db603.netlify.app/)
+##**Live Demo:** 
+
+[ResumeGenie](https://exquisite-cajeta-9db603.netlify.app/)
 
 
 
