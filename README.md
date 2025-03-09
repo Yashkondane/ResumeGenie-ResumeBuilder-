@@ -1,11 +1,11 @@
-#**ResumeGenie**
+# **ResumeGenie**
 
 
 
 A simple and user-friendly resume builder with a clean, responsive design, built using HTML, CSS, and JavaScript.
 
 
-##**Features:**
+## **Features:**
 
 1) Real-time Preview – Instantly see updates as you input information.
 
@@ -16,7 +16,7 @@ A simple and user-friendly resume builder with a clean, responsive design, built
 4) Easy to Use – No sign-ups or complex steps—just enter details and generate your resume.
 
 
-##**Tech Stack:**
+## **Tech Stack:**
 
 **Frontend:** HTML, CSS, JavaScript
 
@@ -24,7 +24,7 @@ A simple and user-friendly resume builder with a clean, responsive design, built
 
 Helping users create polished resumes effortlessly! 
 
-##**Live Demo:** 
+## **Live Demo:** 
 
 [ResumeGenie](https://exquisite-cajeta-9db603.netlify.app/)
 
